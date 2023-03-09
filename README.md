@@ -2,9 +2,12 @@
 
 ### I'm a FullStack developer from Spain
 
+😃 - I'm currently learning about technologies 💻 like:
 
-Here are some ideas to get you started:
-😃 - I'm currently learning about technologies like Java, JavaScript/TypeScript, Angular, Python and HTML/CSS. 💻
+- Java/Spring, 
+- JavaScript/TypeScript Angular 
+- Python 
+- HTML/CSS. 
 
 <div style="text-align:center"><img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif"/></div>
 
