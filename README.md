@@ -5,13 +5,12 @@
 😃 - I'm currently learning about technologies 💻 like:
 
 - Java/Spring, 
-- JavaScript/TypeScript Angular 
-- Python 
-- HTML/CSS. 
+- JavaScript/TypeScript
+- React.js 
+- Python
 
 <div style="text-align:center"><img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif"/></div>
 
-❤️ - I really like to check repositories of OS projects and check them out.
 
 <a href="https://es.linkedin.com/in/carlos-abuin-mart%C3%ADnez-102167183">
 <div id="badges">
