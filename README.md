@@ -4,7 +4,7 @@
 
 😃 - I'm currently learning about technologies 💻 like:
 
-- Java/Spring, 
+- Java-Spring Framework, 
 - JavaScript/TypeScript
 - React.js 
 - Python
