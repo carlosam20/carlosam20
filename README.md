@@ -26,14 +26,6 @@
 </a>
 
 
-
-## 🔥 My Github Streak
-<p align="center">
-    <a href=https://github.com/carlosam20/carlosam20>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosam20&theme=dark&hide_border=true">
-    </a>
-</p>
-
 ## 🏆 Github Profile Trophy
 <p align="center">
     <a href=https://github.com/carlosam20/carlosam20>
